@@ -51,9 +51,11 @@ Follow these steps to set up the project locally:
 
 🖼️ Screenshots
 Game Board (Light Mode)
-![image](https://github.com/user-attachments/assets/720d887c-5d0c-486d-b730-5e556eea5403)
+![image](https://github.com/user-attachments/assets/25fad93d-7539-43ee-ac86-d163bb654a8d)
+
 
 
 Dark Mode Toggle
-![image](https://github.com/user-attachments/assets/71704290-cac9-4080-99ad-150ac8dbd822)
+![image](https://github.com/user-attachments/assets/ba457ae3-3328-45a9-9a61-49064c35aca0)
+
 
